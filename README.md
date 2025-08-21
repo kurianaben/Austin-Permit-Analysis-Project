@@ -1,4 +1,5 @@
-#Data Analysis Project - Economic Trends vs Building Permits in Austin, TX
+#Test
+Data Analysis Project - Economic Trends vs Building Permits in Austin, TX
 
 This project involves exploratory data analysis (EDA) and report building using Excel, PowerBI, and Word. The original downloaded dataset includes residential & commerical permit applications. Other variables included in this project include 30-year mortgage rates, prime rates, inflation rates, the Consumer Confidence Index, recession indicator, & the unemployment rate for Austin, TX.
 
