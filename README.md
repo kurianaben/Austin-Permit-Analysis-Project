@@ -8,3 +8,5 @@ To keep this repo lightweight, only a sample of the data is included.
 Tools Used: PowerBI, Excel, Word
 
 Focus: Statistics, data exploration & breakdown, real estate market insight
+
+___
