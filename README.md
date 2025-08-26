@@ -1,4 +1,4 @@
-### Data Analysis Project - Economic Trends vs Building Permits in Austin, TX
+## Data Analysis Project - Economic Trends vs Building Permits in Austin, TX
 
 This project involves exploratory data analysis (EDA) and report building using Excel and PowerBI. 
 
