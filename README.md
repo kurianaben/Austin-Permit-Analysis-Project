@@ -32,4 +32,4 @@ ___
 
 3) Permit applications predicts future unemployment trends: Higher permit activity today shows lower unemployment rates 6 months in the future (r = -0.346)
 ___
-### Full Analysis Report
+### [Full Analysis Report](https://github.com/kurianaben/Austin-Permit-Analysis-Project/tree/main/Report)
