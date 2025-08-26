@@ -8,10 +8,10 @@ The reason I decided to do this particular project was because I love learning a
 ___
 ### Tasks:
 
--Performed data cleaning using PowerQuery on Excel 
--Performed statistical analysis across multiple variables to identify correlations & trends in data
--Visualized trends across time & various other metrics
--Built a comprehensive analysis report
+- Performed data cleaning using PowerQuery on Excel 
+- Performed statistical analysis across multiple variables to identify correlations & trends in data
+- Visualized trends across time & various other metrics
+- Built a comprehensive analysis report
 
 Project Focus: Statistics, data exploration & breakdown, real estate market insight
 ___
