@@ -8,7 +8,7 @@ The reason I decided to do this particular project was because I love learning a
 ___
 ### Dataset
 
-The full original dataset (~1.4 GB) can be downloaded from [data.gov] here: https://catalog.data.gov/dataset/issued-construction-permits. (Metadata as of July 25th, 2025). Due to github's max upload restriction of 25 MB, only a sample of the data is included.
+The full original dataset (~1.4 GB) can be downloaded from [data.gov] here: https://catalog.data.gov/dataset/issued-construction-permits. (Metadata as of July 25th, 2025). Due to github's max upload restriction of 25 MB, only a sample of the data is included in this repo.
 
 This dataset that’s used as the basis for this project includes residential & commercial permit applications for Austin, TX. Other variables included in this project include 30-year mortgage rates, prime rates, inflation rates, the Consumer Confidence Index, recession indicator, & the Austin, TX, unemployment rate. All sources for economic data are linked both in the excel workbook and in the comprehensive report.
 ___
