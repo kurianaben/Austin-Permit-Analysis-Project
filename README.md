@@ -25,8 +25,10 @@ ___
 - Mortgage rates is the most significant factor regarding the amount of building permits pepole apply for.
 <img width="638" height="545" alt="image" src="https://github.com/user-attachments/assets/d1f6bff5-6ad6-4a57-a337-0bdd71d63ac9" />
 
+
 - Inflation rates has almost zero correlation (r = 0.047) with building permit applications.
 <img width="727" height="541" alt="image" src="https://github.com/user-attachments/assets/d971ef9c-d5e3-4693-be89-2e94380cfaf8" />
+
 
 - Permit applications predicts future unemployment trends: Higher permit activity today shows lower unemployment rates 6 months in the future.
 ___
