@@ -22,6 +22,8 @@ The full original dataset (~1.4 GB) can be downloaded from [data.gov] here: http
 This dataset that’s used as the basis for this project includes residential & commercial permit applications for Austin, TX. Other variables included in this project include 30-year mortgage rates, prime rates, inflation rates, the Consumer Confidence Index, recession indicator, & the Austin, TX, unemployment rate. All sources for economic data are linked both in the excel workbook and in the comprehensive report.
 ___
 ### Key Findings
+- Mortgage rates is the most significant factor regarding the amount of building permits pepole apply for
+<img width="638" height="545" alt="image" src="https://github.com/user-attachments/assets/d1f6bff5-6ad6-4a57-a337-0bdd71d63ac9" />
 
 ___
 ### Full Analysis Report
