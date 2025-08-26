@@ -1,10 +1,8 @@
-## Data Analysis Project - Economic Trends vs Building Permits in Austin, TX
+## Economic Signals & Building Permits in Austin, TX (2009-2024)
 
-This project involves exploratory data analysis (EDA) and report building using Excel and PowerBI. 
+This project was done to see the exploratory and statistical analysis of how macro economic conditions relate to **Austin building permits** (total, residential, commercial) on a month-by-month basis from 2009-2024.
 
-This project was done to see what correlation, if any, there was with the amount of **building permits** (both residential & commercial) the residents of Austin, TX, applied for and the general economic conditions of the US during the same time period for the years of 2009 to 2024.
-
-The reason I decided to do this particular project was because I love learning about the real estate industry and thought that there might be some interesting information and correlations I could uncover, and wanted to test out my statistical analysis skills. I chose Austin, TX, for the city in this project simply because I like the city. Loosely speaking, however, I believe similar trends can be found if this project was replicated with any other city.
+The reason I decided to do this particular project was because I love learning about the real estate industry and thought that there might be some interesting information and correlations I could uncover using open source data, and also wanted to test out my statistical analysis skills. 
 ___
 ### Dataset
 
@@ -14,22 +12,24 @@ This dataset that’s used as the basis for this project includes residential & 
 ___
 ### Tasks:
 
-- Performed data cleaning using PowerQuery on Excel 
-- Performed statistical analysis across multiple variables to identify correlations & trends in data
-- Visualized trends across time & various other metrics
-- Built a comprehensive analysis report
+- **Data Cleaning** 
+- **Statistical analysis**: Used Pearson correlations, p-values/t-tests, & OLS regression to identify correlations & trends in data
+- **Visualizations**: trends across time & various other metrics
+- **Reporting**: Built a comprehensive analysis report
 
-Project Focus: Statistics, data exploration & breakdown, real estate market insight
+**Project Focus**: Statistics, data exploration & breakdown, real estate market insight
 ___
-### Few Key Findings
-1) Mortgage rates is the most significant factor regarding the amount of building permits pepole apply for.
+### Few Key Findings (TL;DR)
+1) Mortgage rates are the most significant factor regarding the amount of building permits pepole apply for.
 <img width="638" height="545" alt="image" src="https://github.com/user-attachments/assets/d1f6bff5-6ad6-4a57-a337-0bdd71d63ac9" />
 
 
-2) Inflation rates has almost zero correlation (r = 0.047) with building permit applications.
+2) Inflation rates shows almost zero correlation (r = 0.047) with building permit applications.
 <img width="727" height="541" alt="image" src="https://github.com/user-attachments/assets/d971ef9c-d5e3-4693-be89-2e94380cfaf8" />
 
 
-3) Permit applications predicts future unemployment trends: Higher permit activity today shows lower unemployment rates 6 months in the future (r = -0.346)
+3) Permit applications is associated with future unemployment trends: Higher permit activity today shows lower unemployment rates 6 months in the future (r = -0.346)
 ___
 ### [Full Analysis Report](https://github.com/kurianaben/Austin-Permit-Analysis-Project/tree/main/Report)
+___
+## About Me & Contact
