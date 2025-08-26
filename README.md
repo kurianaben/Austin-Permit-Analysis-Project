@@ -4,7 +4,7 @@ This project involves exploratory data analysis (EDA) and report building using 
 
 This project was done to see what correlation, if any, there was with the amount of building permits (both residential & commercial) the residents of Austin, TX, applied for and the general economic conditions of the US during the same time period for the years of 2009 to 2024.
 
-The reason I decided to do this particular project was because I love learning about the real estate industry and thought that there might be some interesting information and correlations that most people like myself have not seen. I chose Austin, TX, for the city in this project simply because I like the city & I wanted to find a city that wasn’t too large or too small. Loosely speaking, however, I believe similar trends can be found if this project was replicated with any other city.
+The reason I decided to do this particular project was because I love learning about the real estate industry and thought that there might be some interesting information and correlations that most people like myself have not seen. I chose Austin, TX, for the city in this project simply because I like the city. Loosely speaking, however, I believe similar trends can be found if this project was replicated with any other city.
 
 Focus: Statistics, data exploration & breakdown, real estate market insight
 ___
