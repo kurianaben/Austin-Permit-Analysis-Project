@@ -1,6 +1,6 @@
 ## Economic Signals & Building Permits in Austin, TX (2009-2024)
 
-This project was done to see the exploratory and statistical analysis of how macro economic conditions relate to **Austin building permits** (total, residential, commercial) on a month-by-month basis from 2009-2024.
+This project was done to see the exploratory and statistical analysis of how macro economic conditions relate to **building permits in Austin, TX,** (total, residential, commercial) on a month-by-month basis from 2009-2024.
 
 The reason I decided to do this particular project was because I love learning about the real estate industry and thought that there might be some interesting information and correlations I could uncover using open source data, and also wanted to test out my statistical analysis skills. 
 ___
