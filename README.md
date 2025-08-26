@@ -1,4 +1,4 @@
-# Data Analysis Project - Economic Trends vs Building Permits in Austin, TX
+### Data Analysis Project - Economic Trends vs Building Permits in Austin, TX
 
 This project involves exploratory data analysis (EDA) and report building using Excel and PowerBI. 
 
@@ -6,7 +6,7 @@ This project was done to see what correlation, if any, there was with the amount
 
 The reason I decided to do this particular project was because I love learning about the real estate industry and thought that there might be some interesting information and correlations I could uncover, and wanted to test out my statistical analysis skills. I chose Austin, TX, for the city in this project simply because I like the city. Loosely speaking, however, I believe similar trends can be found if this project was replicated with any other city.
 ___
-## Tasks:
+### Tasks:
 
 -Performed data cleaning using PowerQuery on Excel 
 -Performed statistical analysis across multiple variables to identify correlations & trends in data
@@ -15,13 +15,13 @@ ___
 
 Project Focus: Statistics, data exploration & breakdown, real estate market insight
 ___
-## Dataset
+### Dataset
 
 The full original dataset (~1.4 GB) can be downloaded from [data.gov] here: https://catalog.data.gov/dataset/issued-construction-permits. (Metadata as of July 25th, 2025). Due to github's max upload restriction of 25 MB, only a sample of the data is included.
 
 This dataset that’s used as the basis for this project includes residential & commercial permit applications for Austin, TX. Other variables included in this project include 30-year mortgage rates, prime rates, inflation rates, the Consumer Confidence Index, recession indicator, & the Austin, TX, unemployment rate. All sources for economic data are linked both in the excel workbook and in the comprehensive report.
 ___
-## Key Findings
+### Key Findings
 
 ___
-## Full Analysis Report
+### Full Analysis Report
