@@ -30,6 +30,6 @@ ___
 <img width="727" height="541" alt="image" src="https://github.com/user-attachments/assets/d971ef9c-d5e3-4693-be89-2e94380cfaf8" />
 
 
-3) Permit applications predicts future unemployment trends: Higher permit activity today shows lower unemployment rates 6 months in the future.
+3) Permit applications predicts future unemployment trends: Higher permit activity today shows lower unemployment rates 6 months in the future (r = -0.346)
 ___
 ### Full Analysis Report
