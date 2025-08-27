@@ -20,7 +20,7 @@ ___
 **Project Focus**: Statistics, data exploration & breakdown, real estate market insight
 ___
 ### Few Key Findings (TL;DR)
-**1) Mortgage rates are the most significant factor regarding the amount of building permits pepole apply for.**
+**1) Mortgage rates are the most significant factor regarding the amount of building permits people apply for.**
 <img width="638" height="545" alt="image" src="https://github.com/user-attachments/assets/d1f6bff5-6ad6-4a57-a337-0bdd71d63ac9" />
 
 
