@@ -33,6 +33,6 @@ ___
 ### [Full Analysis Report](https://github.com/kurianaben/Austin-Permit-Analysis-Project/tree/main/Report)
 ___
 ### Contact
-Benjamin Kurian
+Benjamin Kurian n/
 LinkedIn: [https://www.linkedin.com/in/kurianaben/](https://www.linkedin.com/in/kurianaben/)
 Email: kurianaben@gmail.com
