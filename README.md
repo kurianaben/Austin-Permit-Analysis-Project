@@ -38,3 +38,5 @@ Benjamin Kurian
 LinkedIn: [https://www.linkedin.com/in/kurianaben/](https://www.linkedin.com/in/kurianaben/)
 
 Email: kurianaben@gmail.com
+
+Project Explanation in Blog Post: https://benkurian.blogspot.com/2025/09/my-first-data-project-process.html
